@@ -1,0 +1,4 @@
+IconPerson ,
+Head ButtonClose StringTextQuotCommands ,
+Body PicPerson StringTextQuotAdmin StringTextCommandQuot Square StringTextCommandsQuot ,
+IfClickCommandThenNewBody ,
