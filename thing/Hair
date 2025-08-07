@@ -1,0 +1,11 @@
+IconCata ,
+Head ButtonClose StringTextQuotHair ,
+Body BackPicHair ,
+PicBlBelowStringTextQuotBl
+PicTrBelowStringTextQuotTr
+PicYrBelowStringTextQuotYr
+PicBqBelowStringTextQuotBq ,
+StringTextQuotFire At ,
+WayDis ,
+ListCountry ,
+AfterListClickThenWaitTwoSecondsThenWayNitThenClose ,

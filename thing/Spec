@@ -1,0 +1,7 @@
+IconChemistry ,
+Head ButtonClose StringTextQuot Spectrometer ,
+Body PicSpecShort ,
+StringSpecShortTextQuot ,
+MemorySpecShort ,
+ListMemorySpecShortQuot ,
+IfListClickThenNewBody ,
