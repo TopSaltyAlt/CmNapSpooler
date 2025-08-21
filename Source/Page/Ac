@@ -1,0 +1,7 @@
+IconIce ,
+Head ButtonClose StringTextQuotIce ,
+Body PicAc ,
+StringTextQuotRunning ,
+StringTextQuotTemp ,
+StringTempTextQuot ,
+WhileInternalTemp > Temp68ThenRunAcAndAcMarAoChr ,
